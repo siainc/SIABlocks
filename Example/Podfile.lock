@@ -1,0 +1,14 @@
+PODS:
+  - SIABlocks (0.1.0)
+
+DEPENDENCIES:
+  - SIABlocks (from `../`)
+
+EXTERNAL SOURCES:
+  SIABlocks:
+    :path: ../
+
+SPEC CHECKSUMS:
+  SIABlocks: 3a2d06670896188b3bd76c9e1d36b64a323fad85
+
+COCOAPODS: 0.35.0
